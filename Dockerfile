@@ -10,6 +10,9 @@ WORKDIR /var/www/html
 # Exponer el puerto que usa Render
 EXPOSE 10000
 
-# Comando para iniciar el servidor
-CMD ["php", "-S", "0.0.0.0:10000", "-t", "/var/www/html"]
+# Configurar Apache para usar el puerto de Render
+ENV PORT 10000
+
+# Usar Apache en primer plano, apuntando al puerto de Render
+CMD ["apache2-foreground"]
 
