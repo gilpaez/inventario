@@ -1,0 +1,7 @@
+{
+  "name": "gilpaez/inventario",
+  "description": "Sistema de inventario en PHP",
+  "require": {
+    "php": ">=8.0"
+  }
+}
