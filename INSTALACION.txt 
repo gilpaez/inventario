@@ -1,0 +1,115 @@
+
+1 - Copie o mueva la carpeta INVENTARIO a su servidor local o remoto
+
+2 - Cree una base de datos en MYSQL con el nombre de su preferencia, 
+selecci??nela e importe la base de datos del sistema con phpmyadmin u otro gestor grafico de MYSQL 
+que utilice, la base de datos se encuentra en la carpeta DB
+
+3 - Abra el archivo main.php con su editor de c??digo favorito y configure solamente los datos 
+del servidor (en la funcion conexion). El archivo se encuentra en la carpeta ???php???
+
+4 - Usuario por defecto: Administrador
+    Clave: Administrador
+
+
+ayudame a redactar en la muestra que diga que se realizaran pruebas de usabilidad en una sucursal de mayor afluencia para analizar cual es la diferencia de los tiempo cuando se realizan los creditos de forma manual es decir que el mensajero va y recoge el credito para llevarlo a creditos y el tiempo que se lleva con la digitalizacion ademas de la experienmcia del cliente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Casos de uso
+Super Administrador: tiene acceso total al desarrollo
+Administrador: operativo 
+Usuario operativo puede restar productos a cualquier almac??n
+
+
+Que venga fecha del articulo en el producto por la vida de producto
+Y tambi??n agregar un reporteador de actividad esa es la innovaci??n cuando se llegue la fecha de caducidad del producto te avise 
+
+
+
+
+La distribuci??n hipergeom??trica describe la probabilidad de obtener un n??mero espec??fico de ??xitos en una muestra extra??da sin reemplazo de una poblaci??n finita que contiene un n??mero determinado de ??xitos y fracasos. Se aplica cuando el tama??o de la poblaci??n es peque??o en comparaci??n con el tama??o de la muestra.
+
+Comparaci??n con la Distribuci??n Binomial
+???Si la poblaci??n es grande, el n??mero de ??xitos en la muestra sigue una distribuci??n binomial.
+???Sin embargo, si la poblaci??n es peque??a (n/N > 0.5), la probabilidad de ??xito cambia con cada intento, por lo que se usa la distribuci??n hipergeom??trica.
+
+Ejemplo ilustrativo
+Imaginemos un taz??n con M esferas rojas y N - M esferas blancas.
+Si se seleccionan n esferas sin reemplazo, la variable aleatoria X representa el n??mero de esferas rojas.
+
+La f??rmula de la probabilidad es:
+
+P(X = k) = [C(M, k) * C(N - M, n - k)] / C(N, n)
+
+Media y Varianza
+La media y la varianza de una variable hipergeom??trica se calculan as??:
+Media (??): ?? = n * (M / N)
+Varianza (????): ???? = n * (M / N) * (1 - M / N) * ((N - n) / (N - 1))
+
+Ejemplo pr??ctico
+Una caja contiene 12 botellas de vino, 3 echadas a perder.
+Se seleccionan 4 al azar. Calcular la distribuci??n de probabilidad para X (botellas echadas a perder).
+
+N = 12, n = 4, M = 3
+P(X = k) = [C(3, k) * C(9, 4 - k)] / C(12, 4)
+
+P(0)=0.25, P(1)=0.51, P(2)=0.22, P(3)=0.02
+
+Media y Varianza del Ejemplo
+Media (??): ?? = 4 * (3 / 12) = 1
+Varianza (????): ???? = 4 * (3 / 12) * (9 / 12) * (8 / 11) ??? 0.5455
+
+Ejercicios de Aplicaci??n
+1. Chips defectuosos: 6 chips, 2 defectuosos, seleccionar 3. Encontrar la distribuci??n de probabilidad.
+
+2. Sesgo en g??nero: 5 solicitantes (2 mujeres, 3 hombres) para 2 puestos. Calcular p(x), media y varianza.
+
+3. Credenciales para ense??anza: 8 candidatos (5 en internados, 3 en programas tradicionales) para 3 puestos.
+
+Conclusi??n
+La distribuci??n hipergeom??trica es esencial para modelar situaciones de muestreo sin reemplazo. Adem??s, permite calcular probabilidades reales en poblaciones peque??as y tiene amplias aplicaciones en la industria, educaci??n y estad??stica aplicada.
+
+dir.ingenieria@universidadlux.edu.mx
+
+
+nginx XAMPP
+
+gyphu
+
+
+
+
+
+Usuario gyphub : username  password: 
+
+
+gilpaez      I
+
+
